@@ -1,4 +1,4 @@
-**Proyecto: Ejercicios Prácticos de JavaScript II**
+# **Proyecto: Ejercicios Prácticos de JavaScript II**
 
 Este repositorio contiene ejercicios prácticos y ejemplos explicativos de las **12 sesiones** del curso de JavaScript II. Cada sesión aborda conceptos clave del lenguaje, desde fundamentos avanzados hasta despliegue de aplicaciones.
 
