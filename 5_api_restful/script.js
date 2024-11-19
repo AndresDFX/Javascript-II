@@ -7,7 +7,8 @@ function ejemploFetchGET() {
 
 // Ejemplo 2: Fetch POST
 function ejemploFetchPOST() {
-    fetch("https://jsonplaceholder.typicode.com/posts", {
+    fetch("https://jsonplaceholder.typicode.com/posts", 
+    {
         method: "POST",
         headers: {
             "Content-Type": "application/json",
